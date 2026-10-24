@@ -7,3 +7,7 @@ Também não encontrei na plataforma a data de gravação do curso, para entende
 
 Sobre o conteúdo transmitido, pude entender que há diversas foram de criar os agentes (com base em modelo, por descrição ou em branco).
 Cada um com suas particularidades. Me lembrou muito a criação dos aplicativos no Power Platform (model driven e canvas).
+
+Sobre as funcionalidades disponíveis na criação, podemos munir o nosso agente de bases de conhecimento para garantir maior qualidade nas respostas.
+Essas bases podem ter diversas fontes (sites, Sharepoint, One Drive, Dataverse etc). Também podemos escolher o modelo de IA que iremos utilizar, em quais canais ele deve interagir, quais idiomas deve utilizar.
+E se vai se conectar ou não com outros agentes.
