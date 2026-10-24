@@ -1,0 +1,9 @@
+Desafio: Criando Seu Primeiro Copiloto no Microsoft Studio
+
+Resumo:
+
+O curso apresenta uma versão obsoleta do Copilot Studio, o que dificultou bastante a aplicação prática dos exemplo. 
+Também não encontrei na plataforma a data de gravação do curso, para entender sobre qual versão as aulas foram gravadas.
+
+Sobre o conteúdo transmitido, pude entender que há diversas foram de criar os agentes (com base em modelo, por descrição ou em branco).
+Cada um com suas particularidades. Me lembrou muito a criação dos aplicativos no Power Platform (model driven e canvas).
